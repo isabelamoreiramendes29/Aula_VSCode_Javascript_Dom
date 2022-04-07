@@ -1,3 +1,3 @@
 # Aula_VSCode_Javascript_Dom
 
-Código Java Script desenvolvido durante a aula de Linguagem de Programação - 01/04/2022
+Código JS desenvolvido durante a aula de Linguagem de Programação - 01/04/2022
